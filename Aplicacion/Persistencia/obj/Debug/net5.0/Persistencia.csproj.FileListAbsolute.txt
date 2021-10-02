@@ -1,0 +1,44 @@
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+D:\Torneo\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+D:\Torneo\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+D:\Torneo\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+D:\Torneo\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.dll
+D:\Torneo\Aplicacion\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+D:\Torneo\Aplicacion\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+D:\Torneo\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.dll
+D:\Torneo\Aplicacion\Persistencia\bin\Debug\net5.0\Dominio.pdb
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.dll
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+D:\Torneo\Aplicacion\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache

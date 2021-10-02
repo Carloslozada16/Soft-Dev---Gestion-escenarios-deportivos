@@ -1,0 +1,37 @@
+﻿@page
+@model Frontend.Pages.MIndexModel
+@{
+    ViewData["Title"]="MIndex";
+}
+<h1>Listado de Municipios</h1>
+<p>
+    <!--<Link para paguina de crear > -->
+    <a asp-page="Crear">Crear Municipio</a>
+
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <!--<Columnas> -->
+            <th>Id</th>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+   
+     @foreach (var mun in Model.Municipios)
+        {
+         <tr>
+                <td> @mun.Id </td>
+                <td>@mun.Nombre</td>
+                <!--<añadiendo vinculos> -->
+                <td>
+                    <a asp-page="./Editar" asp-route-id="@mun.Id">Editar</a>
+                    <a asp-page="./Eliminar" asp-route-id="@mun.Id">Eliminar</a>
+                    <a asp-page="./Detalles" asp-route-id="@mun.Id">Detalles</a>
+                </td>
+         </tr>
+        }
+         
+    </tbody>
+</table>

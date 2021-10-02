@@ -1,0 +1,36 @@
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Torneo\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Torneo\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Torneo\Aplicacion\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Torneo\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.pdb
+D:\Torneo\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\Torneo\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\Torneo\Aplicacion\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\Torneo\Aplicacion\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+D:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\Torneo\Aplicacion\Dominio\obj\Debug\net5.0\Dominio.pdb

@@ -1,0 +1,9 @@
+C:\Torneo\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Torneo\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Torneo\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Torneo\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Torneo\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Torneo\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Torneo\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Torneo\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Torneo\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

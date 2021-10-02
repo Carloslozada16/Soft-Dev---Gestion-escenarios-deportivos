@@ -1,0 +1,137 @@
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.exe
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.deps.json
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\ref\Consola.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Consola.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Humanizer.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Dominio.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\bin\Debug\net5.0\Dominio.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.csprojAssemblyReference.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\ref\Consola.dll
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.pdb
+D:\Universidad de caldas\misionTic\ciclo 3\Grupo 8\Proyecto\Aplicacion\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.pdb
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Consola.exe
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Consola.deps.json
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Consola.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\ref\Consola.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Consola.pdb
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Humanizer.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Dominio.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.dll
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Persistencia.pdb
+D:\Torneo\Aplicacion\Consola\bin\Debug\net5.0\Dominio.pdb
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.dll
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\ref\Consola.dll
+D:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+C:\Torneo\Aplicacion\Consola\obj\Debug\net5.0\Consola.pdb

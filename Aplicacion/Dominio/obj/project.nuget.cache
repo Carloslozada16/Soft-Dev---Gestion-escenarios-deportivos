@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zD3mXb7Ka+RN4T27buhhq+WE6Sd7RmpNQqidl1aouVONvtPd1P+x4sYIP1VD0Lle29K46N37HHL4YFAh6ufF0w==",
+  "success": true,
+  "projectFilePath": "C:\\Torneo\\Aplicacion\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clozada\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\clozada\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
