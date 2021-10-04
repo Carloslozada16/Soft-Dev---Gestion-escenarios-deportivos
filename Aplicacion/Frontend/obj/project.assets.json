@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETCoreApp,Version=v3.1": {
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -188,10 +188,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
         },
         "compile": {
-          "lib/net5.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Microsoft.Extensions.DependencyInjection.dll": {}
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll": {}
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
@@ -209,7 +209,8 @@
           "Microsoft.Extensions.DependencyInjection": "5.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
-          "Microsoft.Extensions.Options": "5.0.0"
+          "Microsoft.Extensions.Options": "5.0.0",
+          "System.Diagnostics.DiagnosticSource": "5.0.0"
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.Extensions.Logging.dll": {}
@@ -234,10 +235,10 @@
           "Microsoft.Extensions.Primitives": "5.0.0"
         },
         "compile": {
-          "lib/net5.0/Microsoft.Extensions.Options.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Microsoft.Extensions.Options.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {}
         }
       },
       "Microsoft.Extensions.Primitives/5.0.0": {
@@ -605,10 +606,10 @@
       "System.Diagnostics.DiagnosticSource/5.0.0": {
         "type": "package",
         "compile": {
-          "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         },
         "runtime": {
-          "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
       "System.Diagnostics.Tools/4.3.0": {
@@ -1484,7 +1485,7 @@
       },
       "Dominio/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETStandard,Version=v2.0",
         "compile": {
           "bin/placeholder/Dominio.dll": {}
         },
@@ -1494,7 +1495,7 @@
       },
       "Persistencia/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
@@ -5731,41 +5732,40 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    ".NETCoreApp,Version=v3.1": [
       "Dominio >= 1.0.0",
       "Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dlore\\.nuget\\packages\\": {}
+    "C:\\Users\\clozada\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Torneo\\Aplicacion\\Frontend\\Frontend.csproj",
+      "projectUniqueName": "C:\\Torneo\\aplicacion\\Frontend\\Frontend.csproj",
       "projectName": "Frontend",
-      "projectPath": "D:\\Torneo\\Aplicacion\\Frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\dlore\\.nuget\\packages\\",
-      "outputPath": "D:\\Torneo\\Aplicacion\\Frontend\\obj\\",
+      "projectPath": "C:\\Torneo\\aplicacion\\Frontend\\Frontend.csproj",
+      "packagesPath": "C:\\Users\\clozada\\.nuget\\packages\\",
+      "outputPath": "C:\\Torneo\\aplicacion\\Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dlore\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\clozada\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Torneo\\Aplicacion\\Dominio\\Dominio.csproj": {
-              "projectPath": "D:\\Torneo\\Aplicacion\\Dominio\\Dominio.csproj"
+            "C:\\Torneo\\aplicacion\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Torneo\\aplicacion\\Dominio\\Dominio.csproj"
             },
-            "D:\\Torneo\\Aplicacion\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "D:\\Torneo\\Aplicacion\\Persistencia\\Persistencia.csproj"
+            "C:\\Torneo\\aplicacion\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Torneo\\aplicacion\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5777,8 +5777,7 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",
@@ -5797,7 +5796,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

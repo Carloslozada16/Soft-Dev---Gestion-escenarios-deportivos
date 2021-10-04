@@ -3,6 +3,7 @@ using System;
 using Dominio;
 using Persistencia;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace Consola
 {
@@ -70,7 +71,7 @@ namespace Consola
             //DeleteDeportista(3);
             //GetAllDeportista();
             //UpdateDeportista();
-            //AddTorneo();
+            AddTorneo();
            //GetTorneo(1);
           // DeleteTorneo(1);
           // GetAllTorneo();
@@ -622,10 +623,10 @@ namespace Consola
             Nombre=Console.ReadLine();
             Console.WriteLine("Ingrese la categoria del Torneo que desea registrar");
             Categoria=Console.ReadLine();          
-            Console.WriteLine("Ingrese la fecha inicial del Torneo que desea registrar(DD/MM/AAAA");
-            FechaInicial= DateTime.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese Fecha final del Torneo que desea registrar");
-            FechaFinal=DateTime.Parse(Console.ReadLine());
+          //  Console.WriteLine("Ingrese la fecha inicial del Torneo que desea registrar(DD/MM/AAAA");
+           // FechaInicial= DateTime.Parse(Console.ReadLine());
+           // Console.WriteLine("Ingrese Fecha final del Torneo que desea registrar");
+            //FechaFinal=DateTime.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el Tipo del Torneo que desea registrar");
             Tipo=Console.ReadLine();
             Console.WriteLine("Ingrese MunicipioId del torneo que desea registrar");
@@ -635,8 +636,8 @@ namespace Consola
             {
                 Nombre=Nombre,
                 Categoria=Categoria,
-                FechaInicial=FechaInicial, 
-                FechaFinal=FechaFinal,
+                FechaInicial=new DateTime(2021,10,10), 
+                FechaFinal=new DateTime(2021,10,10),
                 Tipo=Tipo,                     
                 MunicipioId =MunicipioId     
             };            

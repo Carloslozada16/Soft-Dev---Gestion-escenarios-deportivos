@@ -30,6 +30,10 @@ namespace Frontend
             services.AddScoped<IRepositorioMunicipio,RepositorioMunicipio>();
             //registrar el contexto de datos
             services.AddDbContext<Persistencia.AppContext>();
+
+            services.AddScoped<IRepositorioTorneo,RepositorioTorneo>();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

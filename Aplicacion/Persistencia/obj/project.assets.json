@@ -7268,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Torneo\\Aplicacion\\persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Torneo\\aplicacion\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "C:\\Torneo\\Aplicacion\\persistencia\\Persistencia.csproj",
+      "projectPath": "C:\\Torneo\\aplicacion\\Persistencia\\Persistencia.csproj",
       "packagesPath": "C:\\Users\\clozada\\.nuget\\packages\\",
-      "outputPath": "C:\\Torneo\\Aplicacion\\persistencia\\obj\\",
+      "outputPath": "C:\\Torneo\\aplicacion\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\clozada\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Torneo\\Aplicacion\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Torneo\\Aplicacion\\Dominio\\Dominio.csproj"
+            "C:\\Torneo\\aplicacion\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Torneo\\aplicacion\\Dominio\\Dominio.csproj"
             }
           }
         }

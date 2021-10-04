@@ -72,3 +72,4 @@ D:\Torneo\Aplicacion\Frontend\bin\Debug\net5.0\Persistencia.dll
 D:\Torneo\Aplicacion\Frontend\bin\Debug\net5.0\Dominio.pdb
 D:\Torneo\Aplicacion\Frontend\bin\Debug\net5.0\Persistencia.pdb
 D:\Torneo\Aplicacion\Frontend\obj\Debug\net5.0\Razor\Pages\Municipio\Crear.cshtml.g.cs
+C:\Torneo\Aplicacion\Frontend\obj\Debug\net5.0\Frontend.pdb

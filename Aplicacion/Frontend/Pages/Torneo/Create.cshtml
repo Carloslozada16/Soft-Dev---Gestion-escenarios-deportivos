@@ -1,0 +1,29 @@
+﻿@page
+@model Frontend.Pages.CreateModel
+@{
+    ViewData["Title"]="Create";
+}
+<h1> Crear Torneo </h1>
+
+<div>
+    <hr />
+    <div>
+        <div> 
+            <form method="post">
+                <div> </div>
+                <div>
+                    <label asp-for= "Torneo.Nombre"></label>
+                    <Imput asp-for= "Torneo.Nombre" />
+                </div>
+                <div>
+                    <input  type="submit" value="Crear" />
+                </div>
+
+            </form>
+            
+        </div>
+    </div>
+
+
+
+</div>

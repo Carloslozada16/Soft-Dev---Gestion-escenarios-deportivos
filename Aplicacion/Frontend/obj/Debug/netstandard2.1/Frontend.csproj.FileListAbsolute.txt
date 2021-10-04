@@ -1,0 +1,4 @@
+C:\Torneo\Aplicacion\Frontend\obj\Debug\netstandard2.1\Frontend.csprojAssemblyReference.cache
+C:\Torneo\Aplicacion\Frontend\obj\Debug\netstandard2.1\Frontend.AssemblyInfoInputs.cache
+C:\Torneo\Aplicacion\Frontend\obj\Debug\netstandard2.1\Frontend.AssemblyInfo.cs
+C:\Torneo\Aplicacion\Frontend\obj\Debug\netstandard2.1\Frontend.csproj.CoreCompileInputs.cache

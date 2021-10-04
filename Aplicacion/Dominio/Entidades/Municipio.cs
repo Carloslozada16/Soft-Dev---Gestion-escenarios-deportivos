@@ -9,11 +9,11 @@ namespace Dominio
         public int Id{get;set;}
         public string Nombre{get;set;}
         //opcional
-        public string Capital{get;set;}
+        //public string Capital{get;set;}
         // propiedad nabvigacional con la torneo
         public List<Torneo> Torneos {get;set;}
         //llave foranea con departamento
-        public int DepartamentoId{get;set;}
+       public int DepartamentoId{get;set;}
 
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l7+MvUWfuWSLltSIVogRw/4zWE/jcBwVPZUe6gB+0Twi4ckXr8RhV+lYefqpld73BbseuuEgGrGo+RCMkgv4Xw==",
+  "dgSpecHash": "XoUPv1NMNPNJ6n927maZ6Ykr2RftCW1Dhtl+vXYQP0/t3q2zO5sV0PS19JMgWsWH3/bXXGrDPp+SHx7uoHBIdg==",
   "success": true,
-  "projectFilePath": "C:\\Torneo\\Aplicacion\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Torneo\\aplicacion\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clozada\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\clozada\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

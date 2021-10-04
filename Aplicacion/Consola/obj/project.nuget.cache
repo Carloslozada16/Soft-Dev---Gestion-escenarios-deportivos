@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iBRFG9IepY0H7bgQMejgmtn41BB80vH/ZbsxbEQ+X2IJ1nTFovFDJR+XaLWLjwP1B4vSKolS/JpXu6t8xZbQsw==",
+  "dgSpecHash": "n6UBdUsm4CWQRON+a1hEpO1vpJLKLcfYG/VTLGKQ2Zgnelhh3nHw0VkXA+HgWts0aTMtUEhmx0CYE1AYDSIFww==",
   "success": true,
-  "projectFilePath": "C:\\Torneo\\Aplicacion\\Consola\\Consola.csproj",
+  "projectFilePath": "C:\\Torneo\\aplicacion\\Consola\\Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clozada\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\clozada\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
